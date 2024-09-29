@@ -16,8 +16,15 @@
 .pageCopyrightArea{
     flex:8;
     height: 8vh;
-    min-height: 8vh;
+    min-height: 8vh;}
 
-    /*border-color: red;
-    border-style: solid;*/
+
+.linkButton {
+    display:flex;
+    text-align: center;
+    width: 5vw;
+    min-width: 5vw;
+    padding: 1em 1.5em;
+    border-style: solid;
+    border-radius: 1em;
 }

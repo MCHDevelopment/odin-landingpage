@@ -6,20 +6,20 @@
     background-color: white;
 } 
 
-.pageQuoteArea{
-    background-color: #E5E7EB;
+.welcomeImageArea, .pageQuoteArea{
+    background-color:#E5E7EB
 }
 
-.actionArea, .actionLinkButton{
+.welcomeImageArea{
+    background-color: darkgrey;
+}
+
+.actionArea, .actionLinkButton, .signUpLinkButton{
     background-color: #3882F6;
 }
 
 .actionLinkButton {
     border-color: white;
-}
-
-.welcomeImageArea{
-    background-color:#E5E7EB
 }
 
 .infoImage{

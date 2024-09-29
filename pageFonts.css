@@ -10,12 +10,16 @@
     color: #E5E7EB
 }
 
+.navigationAreaLink{
+    font-size: 18px;
+}
+
 .welcomeAreaLeft h1{
     font-size: 48px;
     font-weight: 900;
 }
 
-.welcomeArea p{
+.welcomeDescription{
     font-size: 18px;
     color: #E5E7EB;
 }

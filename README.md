@@ -1,0 +1,2 @@
+More or less finished - I know that some of the elements are not positioned as shown, but I want to continue with the Javascript Part :D.
+I've worked with multiple css files, because I had the feeling that the single styles.css became cluttered realy fast.
