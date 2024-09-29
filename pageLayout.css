@@ -1,0 +1,23 @@
+*{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.pageHeaderArea, .pageInformationArea, .pageQuoteArea, .pageActionArea{
+    flex: 23;
+    height: 23vh;
+    min-height: 23vh;
+
+    border-color: red;
+    border-style: solid;
+}
+
+.pageCopyrightArea{
+    flex:8;
+    height: 8vh;
+    min-height: 8vh;
+
+    border-color: red;
+    border-style: solid;
+}
