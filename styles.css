@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.firstFifth, .fifthFifth
+{
+    background-color: #1F2937;
+}
+
+.secondFifth, .fourthFifth{
+    background-color: white;
+}
+
+.thirdFifth
+{
+    background-color: #E5E7EB;
+}
+
+.firstFifth{
+    color: #F9FAF8
+}
+
+.navigationArea{
+    color: #E5E7EB
+}
