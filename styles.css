@@ -6,12 +6,34 @@
 
 .firstFifth, .secondFifth, .thirdFifth, .fourthFifth
 {
-    flex: 1
+    flex: 1;
+    height: 24vh;
+    min-height: 24vh;
 }
 
 .fifthFifth{
-    flex: 0.2
+    flex: 1;
+    height: 4vh;
+    min-height: 4vh;
 }
+
+.navigationArea, .welcomeArea{
+    display: flex;
+    flex-direction: row;
+}
+
+.welcomeAreaLeft, .welcomeAreaRight, .navigationAreaLeft, .navigationAreaRight{
+    flex: 1
+}
+
+.navigationAreaLeft {
+  display: flex;
+}
+
+.navigationAreaLeft a {
+  flex: 1
+}
+
 
 .firstFifth, .fifthFifth
 {
