@@ -1,24 +1,31 @@
 .pageInformationArea{
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 
 .infoTextArea{
-    flex: 0.2;
     display: flex;
-    border-color: yellow;
-    border-style: solid;
+    flex: 0.2;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
 }
 
 .infoImageArea{
-    flex: 0.8;
     display: flex;
+    flex: 0.8;
     flex-direction: row;
-    border-color: purple;
-    border-style: solid;
+    justify-content: space-between;
+}
+
+.infoImageContainer{
+    display: flex;
+    flex: 0.25;
+    text-align: center;
 }
 
 .infoImage{
-    flex: 0.25;
-    border-color: rgb(228, 41, 17);
+    width: 8vw;
+    height: 8vw;
     border-style: solid;
+    border-radius: 2em;
 }

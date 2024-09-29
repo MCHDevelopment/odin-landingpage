@@ -10,8 +10,7 @@
     height: 23vh;
     min-height: 23vh;
 
-    border-color: red;
-    border-style: solid;
+    padding-bottom: 8vh;
 }
 
 .pageCopyrightArea{
