@@ -1,29 +1,5 @@
 *{
     font-family: 'Roboto', Helvetica, sans-serif;
-    display: flex;
-    flex-direction: column;
-}
-
-.firstFifth, .secondFifth, .thirdFifth, .fourthFifth
-{
-    flex: 1;
-    height: 23vh;
-    min-height: 23vh;
-}
-
-.fifthFifth{
-    flex: 1;
-    height: 8vh;
-    min-height: 8vh;
-}
-
-.navigationArea, .welcomeArea{
-    display: flex;
-    flex-direction: row;
-}
-
-.welcomeAreaLeft, .welcomeAreaRight, .navigationAreaLeft, .navigationAreaRight{
-    flex: 1
 }
 
 .navigationAreaLeft {

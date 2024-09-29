@@ -1,0 +1,28 @@
+.pageHeaderArea{
+    justify-content: space-between;
+}
+
+.navigationArea, .welcomeArea{
+    display: flex;
+    flex-direction: row;
+
+    border-color: green;
+    border-style: solid;
+}
+
+.welcomeAreaLeft, .welcomeAreaRight, .navigationAreaLeft, .navigationAreaRight{
+    flex: 1;
+    display: flex;
+    border-color: blue;
+    border-style: solid;
+}
+
+.navigationAreaLeft{
+    display: flex;
+}
+
+.navigationAreaRight{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}

@@ -1,10 +1,11 @@
 *{
     display: flex;
     flex-direction: column;
-    height: 100%;
 }
 
 .pageHeaderArea, .pageInformationArea, .pageQuoteArea, .pageActionArea{
+    display: flex;
+    
     flex: 23;
     height: 23vh;
     min-height: 23vh;
