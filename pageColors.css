@@ -1,0 +1,11 @@
+.pageHeaderArea, .pageCopyrightArea{
+    background-color: #1F2937;
+}
+
+.pageInformationArea, .pageActionArea{
+    background-color: white;
+} 
+
+.pageQuoteArea{
+    background-color: #E5E7EB;
+}

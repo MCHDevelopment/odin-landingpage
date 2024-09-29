@@ -1,0 +1,13 @@
+.quoteText{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoteAuthor{
+    font-size: 24px;
+    font-weight: bolder;
+    font-style: bold;
+    text-align: right;
+}
