@@ -1,6 +1,4 @@
-*{
-    font-family: 'Roboto', Helvetica, sans-serif;
-}
+
 
 .navigationAreaLeft {
   display: flex;
@@ -11,35 +9,7 @@
   flex: 1
 }
 
-
-
-
-
-.firstFifth{
-    color: #F9FAF8
-}
-
-.navigationArea{
-    color: #E5E7EB
-}
-
-.welcomeAreaLeft h1{
-    font-size: 48px;
-    font-weight: 900;
-}
-
-.welcomeArea p{
-    font-size: 18px;
-    color: #E5E7EB;
-}
-
-.welcomeImageArea{
-    background-color:#E5E7EB
-}
-
 .copyright{
-    color: #E5E7EB;
-    text-align: center;
     justify-content: center;
     padding: 2vh;
 }
@@ -50,16 +20,6 @@
 }
 
 .actionArea{
-    background-color: #3882F6;
     width: 50vw;
     height: 18vh;
-}
-
-.actionInformation{
-    color: #E5E7EB;
-    text-align: center;
-}
-
-.actionCaption{
-    font-weight: bold;
 }

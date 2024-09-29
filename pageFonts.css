@@ -1,3 +1,25 @@
+*{
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.pageHeaderArea{
+    color: #F9FAF8
+}
+
+.navigationArea{
+    color: #E5E7EB
+}
+
+.welcomeAreaLeft h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.welcomeArea p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .quoteText{
     font-size: 36px;
     font-weight: lighter;
@@ -10,4 +32,18 @@
     font-weight: bolder;
     font-style: bold;
     text-align: right;
+}
+
+.actionCaption{
+    font-weight: bold;
+}
+
+.actionInformation{
+    color: #E5E7EB;
+    text-align: center;
+}
+
+.copyright{
+    color: #E5E7EB;
+    text-align: center;
 }
