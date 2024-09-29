@@ -10,8 +10,12 @@
     background-color: #E5E7EB;
 }
 
-.actionArea{
+.actionArea, .actionLinkButton{
     background-color: #3882F6;
+}
+
+.actionLinkButton {
+    border-color: white;
 }
 
 .welcomeImageArea{

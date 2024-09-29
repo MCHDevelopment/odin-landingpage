@@ -1,0 +1,42 @@
+
+.pageActionArea{
+    justify-content: center;
+    align-items: center;
+}
+
+.actionArea{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 14vh;
+    border-radius: 2em;
+}
+
+.actionInformation{
+    display: flex;
+    flex: 0.6;
+}
+
+.actionCaption, .actionText{
+    padding-left: 5vw;
+    text-align: left;
+}
+
+.actionButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0.4;
+}
+
+.actionLinkButton {
+    display:flex;
+    text-align: center;
+    width: 5vw;
+    min-width: 5vw;
+    padding: 1em 1.5em;
+    border-style: solid;
+    border-radius: 1em;
+}

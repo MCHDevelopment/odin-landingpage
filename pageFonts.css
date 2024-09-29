@@ -35,12 +35,17 @@
 }
 
 .actionCaption{
+    font-size: 18px;
     font-weight: bold;
 }
 
 .actionInformation{
     color: #E5E7EB;
     text-align: center;
+}
+
+.actionButton a {
+    color: white;
 }
 
 .copyright{
