@@ -94,3 +94,23 @@
     justify-content: center;
     padding: 2vh;
 }
+
+.fourthFifth{
+    justify-content: center;
+    align-items: center;
+}
+
+.actionArea{
+    background-color: #3882F6;
+    width: 50vw;
+    height: 18vh;
+}
+
+.actionInformation{
+    color: #E5E7EB;
+    text-align: center;
+}
+
+.actionCaption{
+    font-weight: bold;
+}
