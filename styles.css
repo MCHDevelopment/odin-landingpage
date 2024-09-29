@@ -1,5 +1,16 @@
 *{
     font-family: 'Roboto', Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.firstFifth, .secondFifth, .thirdFifth, .fourthFifth
+{
+    flex: 1
+}
+
+.fifthFifth{
+    flex: 0.2
 }
 
 .firstFifth, .fifthFifth
